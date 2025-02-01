@@ -32,3 +32,5 @@ svglib
 yapsy
 Jinja2
 libsass
+lxml
+pygobject
